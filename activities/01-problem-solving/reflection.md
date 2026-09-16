@@ -1,0 +1,1 @@
+I developed my solution by breaking the problem into simple steps and making sure I understood what needed to be calculated. I checked my work by doing a dry run using the given test cases and reviewing each calculation. Organizing and committing my files helped me keep my work neat and track my progress, so I could easily check my previous work and make corrections when needed.
